@@ -1,11 +1,11 @@
 # ads-1-engenharia-2025-2027112
 Atividade da aula de Engenharia de software 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 📚 Diário de Engenharia de Software - Eduardo Costa dos Santos Gilio
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
 As metodologias de desenvolvimento de software são importantes, pois ajudam no desenvolvimento de projeto de maneira eficaz além de fortalecer o trabalho em equipe que é umas das peças principais na desenvoltura de um software funcional. Essas metodologias nada mais são do que abordagens bem estruturadas usadas para planejar, gerir e monitorar projetos de desenvolvimento de software. Existem diversas metodologias, cada uma com uma estrutura específica para orientar as equipes durante todo o ciclo de vida do desenvolvimento de software, desde os requisitos iniciais até o design, desenvolvimento, testes, implementação e outros aspectos. Cada metodologia destaca pontos distintos do processo e é projetada para atender às necessidades de diferentes tipos de equipes. Por exemplo, alguns modelos oferecem maior flexibilidade, enquanto outros enfatizam o envolvimento do usuário, a agilidade ou a gestão de riscos, além disso, cada uma dessas metodologias são utilizadas em determinadas situações e em determinados projetos tendo assim um maior diferencial, porém a mesma importância.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
 A formação em cascata refere-se a um modelo sequencial de desenvolvimento, no qual cada fase do projeto ocorre em uma ordem linear e rígida, onde uma fase deve ser concluída antes que a próxima possa ser iniciada. Esse modelo segue uma abordagem top-down, em que o fluxo de trabalho flui de cima para baixo, como uma cascata. 
@@ -15,15 +15,14 @@ As principais caracteristicas deste modelo são:
 - Entrega de valor onde todas as etapas de desenvolvimento tem que ser concluidas para a entrega do projeto final.
 - Geralmente não oferece muitas oportunidades para feedback do cliente até a fase de testes finais.
 - Tende a apresentar maior risco, pois os problemas podem surgir apenas em fases posteriores, tornando mais difícil sua resolução.
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🌐 Espiral  
-O modelo em espiral é um arquétipo do processo de desenvolvimento de aplicativos. Parte-se da hipótese de que o desenvolvimento de software é um ciclo iterativo que se repete até que os objetivos estabelecidos sejam alcançados. Ele tem a capacidade de lidar com o grande número de riscos que podem ocorrer durante o desenvolvimento de qualquer software. É um dos modelos mais importantes de suporte à gestão de riscos. Como o próprio nome sugere, este modelo é apresentado em forma de espiral, onde as diferentes etapas do modelo são distribuídas em diferentes ciclos desde a análise de requisitos até o projeto final. O número de ciclos no modelo não é fixo e pode variar de projeto para projeto.
-
+O modelo em espiral é um arquétipo do processo de desenvolvimento de aplicativos. Parte-se da hipótese de que o desenvolvimento de software é um ciclo iterativo, ou sejá, que se repete até que os objetivos estabelecidos sejam alcançados. Ele tem a capacidade de lidar com o grande número de riscos que podem ocorrer durante o desenvolvimento de qualquer software. É um dos modelos mais importantes de suporte à gestão de riscos. Como o próprio nome sugere, este modelo é apresentado em forma de espiral, onde as diferentes etapas do modelo são distribuídas em diferentes ciclos desde a análise de requisitos até o projeto final. O número de ciclos no modelo não é fixo e pode variar de projeto para projeto.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 💪 Metodologias Ágeis  
 ### 📖 Manifesto Ágil  
 Os 12 princípios do Manifesto Ágil:
-1. Satisfação do cliente: A maior prioridade está em satisfazer o cliente por meio da entrega adiantada e contínua de software de valor.
+1. Satisfação do cliente: A maior prioridade é satisfazer o cliente por meio da entrega adiantada e contínua de um software de valor.
 2. Mudança em favor da vantagem competitiva: Mudanças de requisitos são bem-vindas, mesmo em fases tardias do desenvolvimento.
 3. Prazos curtos: Entregar software em funcionamento com frequência, desde a cada duas semanas até a cada dois meses, com uma preferência por prazos mais curtos.
 4. Trabalho em conjunto: Tanto pessoas relacionadas a negócios como desenvolvedores devem trabalhar em conjunto, diariamente, durante todo o curso do projeto.
@@ -34,7 +33,7 @@ Os 12 princípios do Manifesto Ágil:
 9. Padrões altos de tecnologia e design: A contínua atenção à excelência técnica e ao bom design aumenta a agilidade.
 10. Simplicidade: Fazer algo simples é dominar a arte de maximizar a quantidade de trabalho que não precisou ser feito.
 11. Autonomia: As melhores arquiteturas, os requisitos e os designs emergem de times auto organizáveis.
-12. Reflexões para otimizações: Em intervalos regulares, o time reflete em como ficar mais efetivo, então, se ajustam e otimizam seu comportamento de acordo.
+12. Reflexões para otimizações: Em intervalos regulares, o time reflete em como ficar mais efetivo, então, se ajustam e otimizam seu comportamento de acordo com determinadas situações.
 
 Os 4 valores do Manifesto Ágil:
 Valor ágil I – Indivíduos e interações acima de processos e ferramentas
@@ -60,7 +59,7 @@ Um sprint dentro de um Scrum segue um conjunto de etapas bem definidas.
 Primeiramente, a equipe realiza uma reunião de planejamento do sprint, na qual são selecionados os itens do backlog do produto que serão trabalhados durante o sprint. Esses itens são detalhados em histórias de usuário e divididos em tarefas menores.
 Após o planejamento, a equipe inicia o trabalho no sprint. Durante o sprint, é realizada uma reunião diária de acompanhamento, conhecida como daily scrum. Nessa reunião, cada membro da equipe compartilha o que fez no dia anterior, o que pretende fazer no dia atual e se há algum impedimento para o progresso do trabalho. 
 Ao final do sprint, a equipe realiza a revisão do sprint, na qual demonstra as funcionalidades desenvolvidas e recebe feedbacks dos stakeholders. Essa é uma oportunidade de aprendizado e melhoria contínua, permitindo ajustes para os próximos sprints.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 💬 Cerimônias  
 As cerimônias essenciais dentro deste framework, desenhados para facilitar a comunicação, planejamento, e entrega contínua de valor. Elas incluem:
 O planejamento do sprint (Sprint Planning): Como o nome já diz, é o momento de planejamento. É na planning que o time recebe as demandas que precisa executar na próxima Sprint.
@@ -68,26 +67,27 @@ As reuniões diárias (Daily Scrum): Realizada diariamente no mesmo horário, a 
 A revisão do Sprint (Sprint Review): É o momento da validação das entregas. O time entrega tudo que foi executado durante a sprint para o PO.
 A retrospectiva do Sprint (Sprint Retrospective): A Sprint retrospective – ou Retrospectiva – é o momento de olhar para trás e avaliar o que deu certo e o que deu errado. Cada Scrum Master vai avaliar e escolher as melhores dinâmicas para a sua equipe. 
 Essas cerimônias são fundamentais para que a equipe avalie e melhore seu trabalho, mantendo o produto backlog alinhado com as necessidades dos stakeholders e garantindo que todos trilhem na mesma direção.
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🎯 Kanban  
-Kanban é uma metodologia ágil para acompanhamento de tarefas e identificação de gargalos no fluxo de trabalho. Ele funciona com o uso de cartões ou post-its distribuídos em um quadro (kanban board), indicando o andamento de atividades em cada etapa dos fluxos de produção nas empresas. 
-Em sua estrutura, um quadro kanban é composto por três elementos principais:
-Cartões ou card: contêm as descrições das tarefas e/ou ações previstas, como responsáveis, prazos, prioridades, sequências de atividades, entre outros pontos. 
-Colunas: são as representações visuais das etapas do fluxo de trabalho de cada área ou projeto, desde as tarefas não iniciadas às entregues. 
-Quadro: o kanban board é uma espécie de tabuleiro no qual os cards percorrem todos os status referentes à produção da atividade, deixando os envolvidos na mesma página sobre o progresso da tarefa. 
-
+Kanban é uma forma prática e visual de organizar tarefas e acompanhar o fluxo de trabalho. Ele funciona como um grande quadro onde as atividades são representadas por cartões (ou cartões) e vão passando por diferentes etapas até serem concluídas. O quadro é dividido em colunas, que representam essas etapas, como "A Fazer", "Em Andamento" e "Concluído". Cada cartão contém informações importantes, como o que precisa ser feito, quem é o responsável e qual o prazo. Com isso, todos da equipe dão ver o que está rolando, o que está parado e onde podem existir gargalos no processo, tornando o trabalho mais eficiente e organizado.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🚀 Extreme Programming (XP)  
-Os principios de XP são:
+Os principios de XP (Extreme Programming) são:
 - Feedback rápido
 - Assumir a simplicidade
 - Mudança incremental
 - Abraçar a mudança
 - Trabalho de alta qualidade 
 - Foco em pessoas 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
-(Descreva o uso dessas ferramentas no gerenciamento de projetos.)
-
+GitHub e GitLab são plataformas que ajudam no desenvolvimento, na organização e na versão do código. Basicamente, elas funcionam como um repositório online onde o código fica salvo, permitindo que várias pessoas trabalhem juntas sem bagunçar tudo. Com recursos como ramificações e solicitações pull/merge, é possível testar e revisar as mudanças antes de adicioná-las ao projeto principal. Além disso, eles têm ferramentas para gerenciar tarefas, automatizar testes e implantações (CI/CD) e até documentar tudo no próprio projeto. O GitHub é mais popular e bem integrado com outras ferramentas, enquanto o GitLab se destaca por ter CI/CD nativo e opções de hospedagem próprias.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+-> O Jira é ideal para equipes que seguem metodologias ágeis, como Scrum e Kanban, especialmente no desenvolvimento de software.
+Ele oferece recursos avançados para gerenciar sprints, backlogs e integrações com outras ferramentas, tornando-o robusto e adaptável para o desenvolvimento de projetos complexos, além de auxiliar na organização das etapas de desenvolvimento desses determinados projetos.
+-> Já o Trello é mais visual e intuitivo, utilizando quadros Kanban para organizar tarefas relacionadas ao desenvolvimento de software. 
+É perfeito para projetos menores ou equipes que valorizam simplicidade e flexibilidade. 
+Embora não ofereça suporte direto a metodologias ágeis, é fácil de usar e personalizar, porém sendo considerado menos ideal pelo fato de não ser completo em relação ao Jira.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
